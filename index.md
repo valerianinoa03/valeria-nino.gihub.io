@@ -42,6 +42,7 @@ Conclusiones y Recomendaciones:
 Link: [Ver Proyecto](https://docs.google.com/spreadsheets/d/10mYf93PDdfszHY9myBj8fTfIAiVieMn6rVXztoEHvxU/edit?usp=edit)
 
 **Análisis de Desempeño Financiero | Tripleten – Data Analyst Bootcamp (2025-2026)**
+
 Contexto:
 - Se analizaron datos de 2017 de ventas, catálogo de productos, territorios y campañas para la empresa Adventure Works, con el fin de saber qué mercados generan más ingresos y cuál es la rentabilidad de cada uno teniendo en cuenta los gastos de marketing.
 
@@ -72,6 +73,7 @@ Conclusiones y Recomendaciones:
 Link: [Ver Proyecto](https://docs.google.com/spreadsheets/d/1Rg-u6mktpbrfiJfg1akyJxSABdissCfN8OIeEz7hRDw/edit?usp=edit)
 
 **Movilidad Urbana y Productividad Económica | Tripleten – Data Analyst Bootcamp (2025-2026)**
+
 Contexto:
 - Crear un reporte para el Latin American Development Bank, para entender cómo la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) se relaciona con la productividad económica (PIB per cápita, desempleo) en las principales ciudades latinoamericanas.
 
