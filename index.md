@@ -12,6 +12,7 @@ Economista con master en desarrollo económico, con más de 3 años de experienc
   
 ## Proyectos
 **Resumen Ejecutivo de Ventas para Walmart | Tripleten – Data Analyst Bootcamp (2025-2026)**
+
 Contexto:
 - Se analizaron las ventas semanales de Walmart por departamento en el año 2012, para ver las categorías de departamento más eficientes, los departamentos que aportaron más al negocio y qué departamento es el más volatil en ventas.
 
@@ -99,7 +100,7 @@ Conclusiones y Recomendaciones:
 
 - Se recomienda pririzar la ciudad de Bogotá, ya que es la que en general muestra mayor correlación entre alta congestión y baja productividad económica. Lima también muestra esta correlación pero a menor nivel, así ue le podemos asignar una prioridad media. En Bogotá se propone seguir invirtiendo en la construcción del metro y en Lima mejorar la integración de sistemas existentes. En ambas se recomienda incentivar a la población al tele trabajo y/o a horarios escalonados.
 
-Link: [Ver Proyecto](https://tripleten.com/proxy/pierce/trainers/workspace/shares/e52d116f-dc6b-4842-b9d7-1b195aa86907%3A200153488%3Adata-analyst/archive)
+Link: [Ver Proyecto](https://drive.google.com/file/d/1FbEfrsiRpvNV2tXdLPPRp5N5ZiRDhjYJ/view?usp=sharing)
 
 ## Contacto
 - Email: valerianinoa@gmail.com
