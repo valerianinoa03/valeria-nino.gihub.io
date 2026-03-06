@@ -130,13 +130,30 @@ Metodología:
 
 - Histograma y Boxplot de la variable 'cantidad de mensajes':
 
+<p align="center">
+  <img src="Proyecto 4_1.png" alt="Proyecto 4.1" width="650">
+</p>
+
+<p align="center">
+  <img src="Proyecto 4_2.png" alt="Proyecto 4.2" width="650">
+</p>
+
 - Visualizaciones de segmentación:
+<p align="center">
+  <img src="Proyecto 4_3.png" alt="Proyecto 4.3" width="650">
+</p>
+
+<p align="center">
+  <img src="Proyecto 4_4.png" alt="Proyecto 4.4" width="650">
+</p>
 
 Conclusiones y Recomendaciones:
 
 - Al segmentar los datos de usuarios de servicios móviles por edad, se encontró que los usuarios adultos entre los 30 y 60 años son los que más usan el servicio. Vimos que no hay outliers notables y que el servicio se distribuye equitativamente por edades desde 18 a 80 años. Por nivel de uso vemos que los clientes que tienen mayor frecuencia son los que dan un alto uso al servicio telefónico. Se evidenciaron varios outliers sesgados a la derecha, mostrando que unos pocos usuarios realizaban más llamadas y mensajes que el promedio. Esto sugiere que el cliente típico de la compañía son los adultos de 30 a 60 años con alto uso del servicio. 
 
 - Se recomienda impulsar el plan premium para los clientes actuales de alto uso, mejorándolo con aún más beneficios como llamadas y mensajes ilimitados, al igual que descuentos por permanencia. Esto daría más uso al plan premium sin necesidad de conseguir nuevos clientes. También se recomienda que se debe capturar el mercado jóven ofreciendo planes enfocados en el internet ilimitado y descuentos estudiantiles, ya que esto es importante en ese mercado.
+
+Link: [Ver Proyecto](https://colab.research.google.com/drive/1LfKVW-KR4OIMVMacFDfG5nx74INgN6c5?usp=sharing)
 
 **Explorando factores de comportamiento en NovaRetail | Tripleten – Data Analyst Bootcamp (2025-2026)**
 
@@ -158,7 +175,15 @@ Calcular correlaciones adecuadas: Pearson/Spearman, Punto biserial, V de Cramér
 
 - Heatmap de Correlaciones:
 
-- Scatterplot con las correlaciones más relevantes: 
+<p align="center">
+  <img src="Proyecto 5_1.png" alt="Proyecto 5.1" width="650">
+</p>
+
+- Scatterplot con las correlaciones más relevantes:
+
+  <p align="center">
+  <img src="Proyecto 5_2.png" alt="Proyecto 5.2" width="650">
+</p>
 
 Conclusiones y Recomendaciones:
 - La publicidad influye sobretodo en las visitas, pero su impacto en ingresos es más indirecto y débil. No podemos afirmar que aumentar el gasto en publicidad aumente proporcionalmente los ingresos. Hay que optimizar conversión hacia las ventas, no solo tráfico en la web del negocio. Para esto se debe analizar más a fondo la inversión publicitaria, segmentando por diferentes tipos de campañas y clientes, y ver la tasa de conversión para cada uno, para poder dirigir la publicidad al público adecuado.
@@ -175,6 +200,7 @@ Próximos pasos:
 - Enfocar el gasto en publicidad a campañas drigidas a los tipos de clientes que más generan ingresos
 - Mejorar automatización y programas de recompra y descuentos para asegurar conversión hacia ventas y no solo visitas.
 
+Link: [Ver Proyecto](https://drive.google.com/file/d/1IjIx-PfypHi7JecTwBPWmQ8hcZ2ZqYlU/view?usp=sharing)
 
 ## Contacto
 - Email: valerianinoa@gmail.com
