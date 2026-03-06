@@ -104,6 +104,78 @@ Conclusiones y Recomendaciones:
 
 Link: [Ver Proyecto](https://drive.google.com/file/d/1FbEfrsiRpvNV2tXdLPPRp5N5ZiRDhjYJ/view?usp=sharing)
 
+**Análisis de una empresa de telecomunicaciones (ConnectaTel) | Tripleten – Data Analyst Bootcamp (2025-2026)**
+
+Contexto:
+
+- Entregar un reporte para entender cómo los clientes usan realmente los servicios móviles (llamadas y mensajes). El objetivo es identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
+
+Preguntas Clave:
+- ¿Qué segmentos de clientes muestran mayor o menor uso de llamadas y mensajes?
+- ¿Qué usuarios presentan valores atípicos que puedan indicar comportamientos inusuales, fraude o errores de registro?
+- ¿Cómo varía el uso según la edad y el tipo de plan contratado?
+- ¿Qué patrones pueden ayudar a diseñar mejores planes, optimizar la oferta y mejorar la satisfacción del cliente?
+
+Herramientas: 
+- Jupyter Notebook
+- Python: pandas, numpy, seaborn, matplotlib
+
+Metodología:
+- Cargar y explorar datos: Se cargaron los datasets para obtener una visión clara de la estructura y tipos de columna de cada dataset.
+- Identificación de problemas de calidad: se contaron nulos, se detectaron valores sentinels y se revisó el formato de los datos para obtener una lisa de problemas que pueden sesgar decisiones.
+- Limpieza de datos: Se reemplazaron sentinels, se convirtieron formatos y se imputaron valores NA según el caso para tener datos consistentes y listos para el análisis.
+- Summary statistics: Se revisaron medidas clave como la media, median y  percentiles en variables numéricas y categoricas para mostrar comportamientos típicos y extremos.
+- Visualización de outliers: Se crearon histogramas y boxplots para visualizar sesgos, patrones y datos atípicos.
+- Segmentación: Se crearon segmentaciones por edad y por nivel de uso para visualizar sus proprciones y con base en estos diseñar acciones como ofertas, campañas o cambios de plan.
+
+- Histograma y Boxplot de la variable 'cantidad de mensajes':
+
+- Visualizaciones de segmentación:
+
+Conclusiones y Recomendaciones:
+
+- Al segmentar los datos de usuarios de servicios móviles por edad, se encontró que los usuarios adultos entre los 30 y 60 años son los que más usan el servicio. Vimos que no hay outliers notables y que el servicio se distribuye equitativamente por edades desde 18 a 80 años. Por nivel de uso vemos que los clientes que tienen mayor frecuencia son los que dan un alto uso al servicio telefónico. Se evidenciaron varios outliers sesgados a la derecha, mostrando que unos pocos usuarios realizaban más llamadas y mensajes que el promedio. Esto sugiere que el cliente típico de la compañía son los adultos de 30 a 60 años con alto uso del servicio. 
+
+- Se recomienda impulsar el plan premium para los clientes actuales de alto uso, mejorándolo con aún más beneficios como llamadas y mensajes ilimitados, al igual que descuentos por permanencia. Esto daría más uso al plan premium sin necesidad de conseguir nuevos clientes. También se recomienda que se debe capturar el mercado jóven ofreciendo planes enfocados en el internet ilimitado y descuentos estudiantiles, ya que esto es importante en ese mercado.
+
+**Explorando factores de comportamiento en NovaRetail | Tripleten – Data Analyst Bootcamp (2025-2026)**
+
+Contexto:
+- Construir un análisis correlacional estructurado que combine variables de comportamiento del cliente, segmentación y valor económico para usuarios de NovaRetail+,  una plataforma de comercio electrónico en Latinoamérica con millones de usuarios, durante el año 2024. El objetivo es generar un reporte de análisis de correlación claro, responsable y accionable, que permita entender qué comportamientos del cliente están más fuertemente asociados con el ingreso generado, sin caer en interpretaciones causales incorrectas.
+
+Preguntas Clave:
+- ¿Qué factores del comportamiento del cliente están más fuertemente asociados con el ingreso anual generado?
+
+Herramientas: 
+- Jupyter Notebook
+- Python: pandas, numpy, seaborn, matplotlib
+
+Metodología:
+- Cargar y explorar el dataset: Entender la estructura, columnas, tipos y métricas clave.
+- Preparar datos y documentar supuestos: Tener los datos sin errores y listos para el reporte. Definir variables relevantes y reglas del análisis.
+- Visualizar relaciones iniciales: Crear heatmap para patrones globales y scatterplots para visualizar relaciones. 
+Calcular correlaciones adecuadas: Pearson/Spearman, Punto biserial, V de Cramér
+
+- Heatmap de Correlaciones:
+
+- Scatterplot con las correlaciones más relevantes: 
+
+Conclusiones y Recomendaciones:
+- La publicidad influye sobretodo en las visitas, pero su impacto en ingresos es más indirecto y débil. No podemos afirmar que aumentar el gasto en publicidad aumente proporcionalmente los ingresos. Hay que optimizar conversión hacia las ventas, no solo tráfico en la web del negocio. Para esto se debe analizar más a fondo la inversión publicitaria, segmentando por diferentes tipos de campañas y clientes, y ver la tasa de conversión para cada uno, para poder dirigir la publicidad al público adecuado.
+
+- El ingreso anual parece estar más relacionado con comportamiento transaccional que con características demográficas o de perfil. No podemos afirmar que no existan relaciones no lineales o interacciones más complejas o que estas variables no influyan levemente en el ingreso para algunos clientes. Para maximizar ingresos se debe tener un enfoque en el comportamiento del cliente, más que en sus características demográficas, y segmentar para ver en qué clientes se debe hacer un enfoque.
+
+Limitaciones: 
+- Correlación ≠ causalidad
+- No se hizo segmentación, esto puede cambiar las correlaciones y reflejar paradoja de Simpson
+- Puede haber caso de variables no controladas, como antigüedad del cliente, temporaa del año, promociones, que afecten la relación de otras variables
+
+Próximos pasos: 
+- Probar segmentación adicional y hacer análisis por cohortes, para poder crear estrategias para aumentar ingresos. 
+- Enfocar el gasto en publicidad a campañas drigidas a los tipos de clientes que más generan ingresos
+- Mejorar automatización y programas de recompra y descuentos para asegurar conversión hacia ventas y no solo visitas.
+
+
 ## Contacto
 - Email: valerianinoa@gmail.com
 - Teléfono: +57 3136925084
