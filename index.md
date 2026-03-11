@@ -190,7 +190,7 @@ Conclusiones y Recomendaciones:
 
 - El ingreso anual parece estar más relacionado con comportamiento transaccional que con características demográficas o de perfil. No podemos afirmar que no existan relaciones no lineales o interacciones más complejas o que estas variables no influyan levemente en el ingreso para algunos clientes. Para maximizar ingresos se debe tener un enfoque en el comportamiento del cliente, más que en sus características demográficas, y segmentar para ver en qué clientes se debe hacer un enfoque.
 
-Limitaciones: 
+Limitaciones:
 - Correlación ≠ causalidad
 - No se hizo segmentación, esto puede cambiar las correlaciones y reflejar paradoja de Simpson
 - Puede haber caso de variables no controladas, como antigüedad del cliente, temporaa del año, promociones, que afecten la relación de otras variables
