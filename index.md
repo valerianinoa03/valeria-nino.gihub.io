@@ -2,16 +2,16 @@
 layout: default
 ---
 
-## Acerca de mi
+# Acerca de mi
 Economista con master en desarrollo económico, con más de 3 años de experiencia en análisis de datos, manejo de bases de datos y preparación de reportes estratégicos. Sólidas habilidades en Excel avanzado, SQL y Power BI. Enfoque en toma de decisiones estratégicas y generación de insights accionables en contextos de negocio e inversión.
 
-## Habilidades
+# Habilidades
 - **Programación** – SQL | Python | Stata | R
 - **Herramientas** – Excel | Power BI
 - **Idiomas** – Español (Nativo) | Inglés (Fluido)
   
-## Proyectos
-# Resumen Ejecutivo de Ventas para Walmart | Tripleten – Data Analyst Bootcamp (2025-2026)
+# Proyectos
+## Resumen Ejecutivo de Ventas para Walmart | Tripleten – Data Analyst Bootcamp (2025-2026)
 
 Contexto:
 - Se analizaron las ventas semanales de Walmart por departamento en el año 2012, para ver las categorías de departamento más eficientes, los departamentos que aportaron más al negocio y qué departamento es el más volatil en ventas.
@@ -41,7 +41,7 @@ Conclusiones y Recomendaciones:
 
 Link: [Ver Proyecto](https://docs.google.com/spreadsheets/d/10mYf93PDdfszHY9myBj8fTfIAiVieMn6rVXztoEHvxU/edit?usp=edit)
 
-# Análisis de Desempeño Financiero | Tripleten – Data Analyst Bootcamp (2025-2026)
+## Análisis de Desempeño Financiero | Tripleten – Data Analyst Bootcamp (2025-2026)
 
 Contexto:
 - Se analizaron datos de 2017 de ventas, catálogo de productos, territorios y campañas para la empresa Adventure Works, con el fin de saber qué mercados generan más ingresos y cuál es la rentabilidad de cada uno teniendo en cuenta los gastos de marketing.
@@ -72,7 +72,7 @@ Conclusiones y Recomendaciones:
 
 Link: [Ver Proyecto](https://docs.google.com/spreadsheets/d/1Rg-u6mktpbrfiJfg1akyJxSABdissCfN8OIeEz7hRDw/edit?usp=edit)
 
-# Movilidad Urbana y Productividad Económica | Tripleten – Data Analyst Bootcamp (2025-2026)
+## Movilidad Urbana y Productividad Económica | Tripleten – Data Analyst Bootcamp (2025-2026)
 
 Contexto:
 - Crear un reporte para el Latin American Development Bank, para entender cómo la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) se relaciona con la productividad económica (PIB per cápita, desempleo) en las principales ciudades latinoamericanas.
@@ -104,7 +104,7 @@ Conclusiones y Recomendaciones:
 
 Link: [Ver Proyecto](https://drive.google.com/file/d/1FbEfrsiRpvNV2tXdLPPRp5N5ZiRDhjYJ/view?usp=sharing)
 
-# Análisis de una empresa de telecomunicaciones (ConnectaTel) | Tripleten – Data Analyst Bootcamp (2025-2026)
+## Análisis de una empresa de telecomunicaciones (ConnectaTel) | Tripleten – Data Analyst Bootcamp (2025-2026)
 
 Contexto:
 
@@ -155,7 +155,7 @@ Conclusiones y Recomendaciones:
 
 Link: [Ver Proyecto](https://colab.research.google.com/drive/1LfKVW-KR4OIMVMacFDfG5nx74INgN6c5?usp=sharing)
 
-# Explorando factores de comportamiento en NovaRetail | Tripleten – Data Analyst Bootcamp (2025-2026)
+## Explorando factores de comportamiento en NovaRetail | Tripleten – Data Analyst Bootcamp (2025-2026)
 
 Contexto:
 - Construir un análisis correlacional estructurado que combine variables de comportamiento del cliente, segmentación y valor económico para usuarios de NovaRetail+,  una plataforma de comercio electrónico en Latinoamérica con millones de usuarios, durante el año 2024. El objetivo es generar un reporte de análisis de correlación claro, responsable y accionable, que permita entender qué comportamientos del cliente están más fuertemente asociados con el ingreso generado, sin caer en interpretaciones causales incorrectas.
@@ -202,7 +202,7 @@ Próximos pasos:
 
 Link: [Ver Proyecto](https://drive.google.com/file/d/1IjIx-PfypHi7JecTwBPWmQ8hcZ2ZqYlU/view?usp=sharing)
 
-## Contacto
+# Contacto
 - Email: valerianinoa@gmail.com
 - Teléfono: +57 3136925084
 - Linkedin: (https://www.linkedin.com/in/valeria-nino/)
