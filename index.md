@@ -230,12 +230,12 @@ Metodología:
 - Dashboard General:
 
 <p align="center">
-  <img src="Proyecto 5_1.png" alt="Proyecto 5.1" width="650">
+  <img src="Proyecto6_1.png" alt="Proyecto 5.1" width="650">
 </p>
 
 - Dashboard Detallado: 
   <p align="center">
-  <img src="Proyecto 5_2.png" alt="Proyecto 5.2" width="650">
+  <img src="Proyecto6_2.png" alt="Proyecto 5.2" width="650">
 </p>
 
 Conclusiones y Recomendaciones:
