@@ -7,7 +7,7 @@ Economista con master en desarrollo económico, con más de 3 años de experienc
 
 # Habilidades
 - **Programación** – SQL | Python | Stata | R
-- **Herramientas** – Excel | Power BI
+- **Herramientas** – Excel | Power BI | Tableau
 - **Idiomas** – Español (Nativo) | Inglés (Fluido)
   
 # Proyectos
