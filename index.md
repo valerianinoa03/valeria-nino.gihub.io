@@ -193,7 +193,7 @@ Conclusiones y Recomendaciones:
 Limitaciones:
 - Correlación ≠ causalidad
 - No se hizo segmentación, esto puede cambiar las correlaciones y reflejar paradoja de Simpson
-- Puede haber caso de variables no controladas, como antigüedad del cliente, temporaa del año, promociones, que afecten la relación de otras variables
+- Puede haber caso de variables no controladas, como antigüedad del cliente, temporada del año, promociones, que afecten la relación de otras variables
 
 Próximos pasos: 
 - Probar segmentación adicional y hacer análisis por cohortes, para poder crear estrategias para aumentar ingresos. 
@@ -201,6 +201,49 @@ Próximos pasos:
 - Mejorar automatización y programas de recompra y descuentos para asegurar conversión hacia ventas y no solo visitas.
 
 Link: [Ver Proyecto](https://drive.google.com/file/d/1IjIx-PfypHi7JecTwBPWmQ8hcZ2ZqYlU/view?usp=sharing)
+
+## Dashboard de desempeño commercial| Tripleten – Data Analyst Bootcamp (2025-2026)
+
+Contexto:
+- Para Andes Retail Group, una empresa de retail con operaciones en Perú, Chile y Colombia que comercializa productos de electrónica, ropa, deportes y hogar, se creó un dashboard interactivo dirigido a la dirección ejecutiva para lograr entender el desempeño comercial de los años 2024–2025.
+
+Preguntas Clave:
+- ¿Cómo ha evolucionado el ingreso total entre 2024 y 2025?
+- ¿Qué segmentos de clientes aportan mayor ingreso y rentabilidad?
+- ¿Qué categorías de producto tienen mayor impacto en el negocio?
+- ¿Existen diferencias relevantes entre países o regiones?
+- ¿Qué patrones temporales se observan a lo largo del año?
+- ¿Dónde podrían existir oportunidades de mejora comercial?
+
+Herramientas: 
+- Tableau
+- Visualizaciones nativas (barras, líneas, mapas, tarjetas KPI)
+- Modelo de narrativa SCQA
+
+Metodología:
+- Conexión y exploración: Importar el dataset y revisar tipos de datos, columnas y métricas clave.
+- Preparación de datos: Validar tipos, crear columnas necesarias, revisar consistencia.
+- Aplicar principios de diseño visual: Definir layout, jerarquía visual, colores y estructura antes de crear visualizaciones.
+- Crear visualizaciones efectivas: Diseñar dos vistas: Vista General (overview) y Vista Detalle (análisis específico). Implementar filtros y configurar interacciones entre gráficos.
+- Narrativas con modelo SCQA: Construir historia dentro del dashboard y comunicar hallazgos
+
+- Dashboard General:
+
+<p align="center">
+  <img src="Proyecto 5_1.png" alt="Proyecto 5.1" width="650">
+</p>
+
+- Dashboard Detallado: 
+  <p align="center">
+  <img src="Proyecto 5_2.png" alt="Proyecto 5.2" width="650">
+</p>
+
+Conclusiones y Recomendaciones:
+- Andes Retail Group mantiene una operación estable con $5.5M en ingresos y margen bruto del 35% en los tres mercados. Perú lidera en volumen, Colombia muestra la mayor caída vs 2024 y el segmento de cliente Económico está prácticamente sin desarrollar con apenas $255K. La caída de junio-julio es estacional y esperada, pero la tendencia a la baja generalizada en 2025 en los tres países requiere atención antes de convertirse en un problema estructural.
+
+- Los márgenes brutos son casi idénticos en todos los segmentos y categorías (34-36%), lo que significa que el crecimiento depende exclusivamente del volumen. Las tres palancas comerciales más claras son: activar Colombia con una estrategia de recuperación post-invierno, desarrollar el segmento Económico como fuente de nuevo volumen, y optimizar precios en Premium, especialmente en la categoría Deportes, para que el liderazgo en volumen se traduzca también en mayor rentabilidad.
+
+Link: [Ver Proyecto](https://drive.google.com/file/d/1RRArifQwhrc_nqt2QmNBcxZE7ATZSU2B/view?usp=drive_link)
 
 # Contacto
 - Email: valerianinoa@gmail.com
