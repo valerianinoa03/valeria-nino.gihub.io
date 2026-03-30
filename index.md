@@ -55,7 +55,7 @@ Herramienta: SQL
 Metodología:
 - Extraer y limpiar datos: unión de tablas, selección de columnas relevantes y tratamiento de valores nulos 
 - Cálculo de KPIs: Se calculó el beneficio bruto, márgen de ventas y ROI sobre los datos.
-- Valudación de resultados y análisis de calidad: se revisó consistencia en los datos, que no hubiera nulos ni duplicados, y se detectarn anomalías.
+- Validación de resultados y análisis de calidad: se revisó consistencia en los datos, que no hubiera nulos ni duplicados, y se detectaron anomalías.
 
 - Código realizado para calcular KPIs:
 
