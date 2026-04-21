@@ -245,6 +245,61 @@ Conclusiones y Recomendaciones:
 
 Link: [Ver Proyecto](https://drive.google.com/file/d/1RRArifQwhrc_nqt2QmNBcxZE7ATZSU2B/view?usp=drive_link)
 
+## Dashboard estrategia comercial de Andes Capital Real Estate | Tripleten – Data Analyst Bootcamp (2025-2026)
+
+Contexto:
+- Para Andes Retail Group, una empresa inmobiliaria que necesita comprender mejor el desempeño comercial.La empresa gestiona la venta de diferentes tipos de propiedades a través de distintos canales de venta y segmentos de clientes.
+- Se pide construir un dashboard interactivo que permita analizar ventas, clientes y propiedades para apoyar decisiones estratégicas.
+
+Preguntas Clave:
+- ¿Cuál es el ingreso total generado por las ventas de propiedades?
+- ¿Qué tipo de propiedad genera más ingresos?
+- ¿Qué segmentos de clientes compran más?
+- ¿Cómo evolucionan las ventas en el tiempo?
+- ¿El negocio está creciendo año contra año?
+- ¿Los clientes vuelven a comprar después de su primera compra?
+
+Herramientas: 
+- Power BI
+- Visualizaciones nativas (barras, líneas, tablas, KPI).
+- Modelado de datos en esquema estrella.
+- Cálculos analíticos
+
+Metodología:
+1.	Limpieza de datos: Validar tipos de datos, nulos y duplicados para tene el dataset listo para el análisis
+2.	Creación de tabla calendario: Construir una tabla calendario para análisis temporal
+3.	Modelación de datos: Construir esquema estrella
+4.	Creación de medidas: Construir métricas comerciales e inteligencia de tiempo para obtener insights del negocio
+5.	Diseño de dashboard: Crear páginas de análisis ejecutivo, comercial y cohortes
+
+- Dashboard:
+
+<p align="center">
+  <img src="Proyecto7_1.png" alt="Proyecto 5.1" width="650">
+</p>
+
+  <p align="center">
+  <img src="Proyecto7_2.png" alt="Proyecto 5.2" width="650">
+</p>
+
+  <p align="center">
+  <img src="Proyecto7_3.png" alt="Proyecto 5.2" width="650">
+</p>
+
+Conclusiones y Recomendaciones:
+
+Insights accionables:
+- El negocio creció un 11.14% en ingresos de 2023 a 2024 (de 3,200 mill.), confirmando una tendencia positiva.
+- El 73% de los ingresos se concentra en un único canal, lo que representa un riesgo de concentración que debe monitorearse.
+- Los clientes adquiridos en los primeros meses de 2023 (enero-marzo) presentan mayor actividad acumulada de recompra, con valores consistentes a lo largo de los meses siguientes. Además, los compradores por primera vez dominan en volumen, concentrando más del 62% de las transacciones totales, lo que sugiere una base de clientes principalmente nueva con potencial de fidelización.
+
+Recomendaciones estratégicas:
+- Diversificar el canal de ventas. Invertir en capacidades digitales y marketing directo podría incrementar el margen al eliminar intermediarios.
+- Dado el alto ticket promedio de la propiedad comercial, se debe priorizar la captación y comercialización de esta, para incrementar el ingreso total sin necesidad de aumentar el volumen de ventas.
+- Implementar un programa de fidelización enfocado en los clientes de primera compra para convertirlos en clientes recurrentes. Un programa de seguimiento post-venta y ofertas personalizadas podría mejorar significativamente la tasa de recompra.
+
+Link: [Ver Proyecto](https://drive.google.com/file/d/15qpx7z5Zh-mf0C-Wvfo9FRmK-rGuI_Ok/view?usp=sharing)
+
 # Contacto
 - Email: valerianinoa@gmail.com
 - Teléfono: +57 3136925084
