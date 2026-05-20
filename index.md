@@ -300,6 +300,67 @@ Recomendaciones estratégicas:
 
 Link: [Ver Proyecto](https://drive.google.com/file/d/15qpx7z5Zh-mf0C-Wvfo9FRmK-rGuI_Ok/view?usp=sharing)
 
+## Proyecto RappiPlus: De datos a decisiones de negocio | Tripleten – Data Analyst Bootcamp (2025-2026)
+
+Contexto:
+- RappiPlus es un servicio de suscripción dentro del ecosistema de Rappi diseñado para aumentar la frecuencia de compra y el valor generado por usuario. El equipo de negocio no tiene claro si el servicio está cumpliendo su objetivo.
+- Existen dudas clave:
+¿Los usuarios realmente compran más?
+¿El modelo está generando ganancias?
+¿Se están perdiendo oportunidades en el proceso de compra?
+- Para responder estas preguntas, se trabaja con datos de pedidos, catálogo y marketing para entender el desempeño del servicio y detectar oportunidades concretas de mejora.
+
+Preguntas Clave:
+¿Podemos confiar en los datos?
+¿Estamos ganando dinero?
+¿Dónde se pierden los usuarios?
+¿Los usuarios regresan?
+¿Los cambios generan impacto?
+¿Cómo comunicamos todo esto?
+
+Herramientas: 
+- Python
+- SQL
+- Power BI
+
+Metodología:
+1. Mirar la calidad de los datos con Python: Limpiar y validar la información
+2.	Evaluar si el negocio es rentable con Python: 	Calcular KPIs, entender ingresos y costos en Python
+3.	Crear un funnel con SQL: Analiar el proceso de comprar y ver dónde se pierden los usuarios 
+4.	Evaluar la retención con SQL: Hacer un análisis de cohortes y mirar si regresan los usuarios
+5.	Crear tests estadísticos con Python: Ver si los cambios funcionan
+6.	Crear un Dashboard: Comunicación de resultados a stakeholders
+
+- Diagrama general del proyecto:
+
+<p align="center">
+  <img src="ProyectoFinal_1.png" alt="Proyecto 5.1" width="650">
+</p>
+
+- Dashboard:
+
+  <p align="center">
+  <img src="Proyecto7_2.png" alt="ProyectoFinal_2" width="650">
+</p>
+
+  <p align="center">
+  <img src="Proyecto7_3.png" alt="ProyectoFinal_3" width="650">
+</p>
+
+Conclusiones y Recomendaciones:
+
+Insights accionables:
+- El negocio creció un 11.14% en ingresos de 2023 a 2024 (de 3,200 mill.), confirmando una tendencia positiva.
+- El 73% de los ingresos se concentra en un único canal, lo que representa un riesgo de concentración que debe monitorearse.
+- Los clientes adquiridos en los primeros meses de 2023 (enero-marzo) presentan mayor actividad acumulada de recompra, con valores consistentes a lo largo de los meses siguientes. Además, los compradores por primera vez dominan en volumen, concentrando más del 62% de las transacciones totales, lo que sugiere una base de clientes principalmente nueva con potencial de fidelización.
+
+Recomendaciones estratégicas:
+- Rappi+ está rentable ($2.9M ganancia / 60% margen) y cuenta con eficiencia operativa, diversificación de portafolio y geografía, una tasa de conversión global excelente y marketing balanceado entre canales.
+- Enfrenta 3 desafíos: un producto que pierde dinero (Laptop), una fuga estructural del 13% en el checkout de la página sin causa segmentada, y una base de usuarios que no está formando hábitos, ya que el 70% de usuarios usa el producto de forma aleatoria y 27% de usuarios free nunca regresan después del registro.
+- La palanca de mayor impacto es la conversión free a paid. Se recomienda crear un programa de conversión, ya que si la conversión generara un 10% más de planes pagos, multiplicaría usuarios leales (de 4.3% a 22.1% para esos usuarios). Además se puede pensar en revisar el pricing de Laptop-Gaming para cubrir el costo y márgen, Hacer tests cualitativos para revisar el formulario de pago e identificar dónde los usuarios se pierden, y por último intentar hacer re-engagement con usuarios inactivos.
+
+Link: [Ver Proyecto](https://drive.google.com/file/d/1Ax70YoWRbPO9q30KOw0LPr0IK-Fgym8x/view?usp=drive_link)
+
 # Contacto
 - Email: valerianinoa@gmail.com
 - Teléfono: +57 3136925084
