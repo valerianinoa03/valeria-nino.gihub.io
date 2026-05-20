@@ -343,6 +343,7 @@ Metodología:
   <img src="ProyectoFinal_2.png" alt="ProyectoFinal_2" width="650">
 </p>
 
+
   <p align="center">
   <img src="ProyectoFinal_3.png" alt="ProyectoFinal_3" width="650">
 </p>
